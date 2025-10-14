@@ -1,3 +1,8 @@
+# Витягуємо данні у зручний табличний формат csv
+# Об'єднували 2 таблиці за допомогою LEFT JOIN. Використав 2 CTE
+# Отримуєм унікальний іденифікатор session_id + pseudo_id, бо session_id можуть співпадати
+# Витягуємо тільки ті події, де були session_start. Іншими словами - к-сть сесій
+
 with CTE_for_session_start as(
 SELECT
 event_name,
@@ -31,4 +36,5 @@ where event_name in ('session_start', 'view_item', 'add_to_cart', 'begin_checkou
 SELECT t1.*, t2.event_name, t2.event_timestamp
 FROM CTE_for_session_start t1
 LEFT JOIN CTE_for_event_timestamp t2
+
 ON t1.user_session_id = t2.user_session_id
