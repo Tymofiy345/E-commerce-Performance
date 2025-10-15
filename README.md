@@ -19,4 +19,4 @@
 BigQuery, Tableau
 
 
-![E-commerce Funnel Dashboard](./images/dashboard.png)
+
