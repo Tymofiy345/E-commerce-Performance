@@ -18,5 +18,6 @@
 ## Інструменти
 BigQuery, Tableau
 
-
-
+![Photo 1](Images%20E-commerce/E-commerce_dashboard1.jpg)
+![Photo 2](Images%20E-commerce/E-commerce_dashboard2.jpg)
+![Photo 3](Images%20E-commerce/E-commerce_dashboard3.jpg)
