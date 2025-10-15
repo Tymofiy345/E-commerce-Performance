@@ -1,7 +1,8 @@
 # E-commerce-Performance Dashboard
 
 ## Опис
-В проекті використовується датасет bigquery-public-data.ga4_obfuscated_sample_ecommerce з відкритих джерел. В ньому міститься інформація про поведінку користувачів на сайті електронної комерції.
+В проекті використовується відкритий датасет bigquery-public-data.ga4_obfuscated_sample_ecommerce. В ньому міститься інформація про поведінку користувачів на сайті електронної комерції.
+
 Ознайомитися з початковими даними на BigQuery можна за посиалнням: https://console.cloud.google.com/bigquery?p=bigquery-public-data&d=ga4_obfuscated_sample_ecommerce&t=events_20210131&page=table&project=resonant-augury-449121-s4&ws=!1m5!1m4!4m3!1sbigquery-public-data!2sga4_obfuscated_sample_ecommerce!3sevents_20210131
 
 ## Цілі проекту
