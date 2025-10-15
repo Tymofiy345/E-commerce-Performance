@@ -20,7 +20,7 @@ BigQuery, Tableau
 
 ## Результат
 
-Детально можна ознайомитися в Tableau Public: https://public.tableau.com/shared/HDHHYBKSF?:display_count=n&:origin=viz_share_link
+Детально з дашбордом можна ознайомитися в Tableau Public: https://public.tableau.com/shared/HDHHYBKSF?:display_count=n&:origin=viz_share_link
 ![Photo 1](Images%20E-commerce/E-commerce_dashboard1.jpg)
 ![Photo 2](Images%20E-commerce/E-commerce_dashboard2.jpg)
 ![Photo 3](Images%20E-commerce/E-commerce_dashboard3.jpg)
